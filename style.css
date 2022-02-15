@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
 }
 
@@ -32,14 +32,13 @@ a {
   padding-left: 0;
 }
 
-
 .navbar__menu > li {
   padding: 8px 12px;
 }
 
-.navbar__menu>li:hover {
+.navbar__menu > li:hover {
   background-color: #d49466;
-  border-radius: 4px; 
+  border-radius: 4px;
 }
 
 .navbar__toogleBtn {
@@ -49,8 +48,6 @@ a {
   font-size: 24px;
   color: #d49466;
 }
-
-  
 
 .navbar__icons {
   list-style: none;
@@ -71,17 +68,19 @@ a {
   }
 
   .navbar__menu {
+    display: none;
     flex-direction: column;
     align-items: center;
     width: 100%;
   }
 
-  .navbar__menu>li {
+  .navbar__menu > li {
     width: 100%;
     text-align: center;
   }
 
   .navbar__icons {
+    display: none;
     justify-content: center;
     width: 100%;
   }
