@@ -6,7 +6,9 @@
 
 ### PC
 
-![image](https://user-images.githubusercontent.com/35194820/154070710-b7bd14ec-9871-474d-a2f7-e663778fe202.png)
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/35194820/154070710-b7bd14ec-9871-474d-a2f7-e663778fe202.png" width=70%/>
+</div>
 
 ### Mobile (max 768px)
 
@@ -16,7 +18,14 @@
 
 </div>
 
-
 ## Reference
 
 [드림코딩 엘리](https://www.youtube.com/watch?v=X91jsJyZofw&t)
+
+### Fonts
+
+[Google fonts](https://fonts.google.com/?subset=korean)
+
+### Icons
+
+[Font Awesome](https://fontawesome.com/start)
