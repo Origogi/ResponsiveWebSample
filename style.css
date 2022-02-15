@@ -41,7 +41,7 @@ a {
   border-radius: 4px;
 }
 
-.navbar__toogleBtn {
+.navbar__toggleBtn {
   display: none;
   position: absolute;
   right: 32px;
@@ -85,7 +85,12 @@ a {
     width: 100%;
   }
 
-  .navbar__toogleBtn {
-    display: block;
+  .navbar__toggleBtn {
+    display: block; 
+  }
+
+  .navbar__menu.active,
+  .navbar__icons.active {
+    display: flex;
   }
 }
